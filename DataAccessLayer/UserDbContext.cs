@@ -4,12 +4,8 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 
-
-
 namespace DataAccessLayer
 {
-
-
 
     public class UserDbContext : IdentityDbContext<IdentityUser>
     {

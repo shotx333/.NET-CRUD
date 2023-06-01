@@ -1,5 +1,4 @@
 ﻿using BusinessLogicLayer.Services.Interfaces;
-using DataAccessLayer.Models;
 using DataAccessLayer.Models.DatabaseModels;
 using Microsoft.AspNetCore.Mvc;
 
